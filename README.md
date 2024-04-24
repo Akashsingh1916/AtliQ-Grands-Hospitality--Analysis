@@ -13,7 +13,7 @@ The goal of this project is to boost Atliq Grands' market share and revenue with
 
 This project is a part of the Codebasics Bootcamp
 
-**Here is my report link** - 
+**Here is my report link** - [
 https://app.powerbi.com/view?r=eyJrIjoiMWJlZDAwOGMtOTFjMi00N2Q4LWFlMzItYmI3NDM4MGExM2EyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 
