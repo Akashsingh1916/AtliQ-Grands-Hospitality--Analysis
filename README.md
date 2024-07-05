@@ -4,17 +4,18 @@
 ## Project Overview
 
 
-Atliq Grands has seen a decline in its market share and revenue due to both competitive pressures and management decisions. This project is centered around revitalizing the business by utilizing hospitality analytics to make well-informed decisions.
+Atliq Grands has seen a decline in its market share and revenue due to competitive pressures and management decisions. This project is centered around revitalizing the business by utilizing hospitality analytics to make well-informed decisions.
 
 
 ### Project Goal
 
-The goal of this project is to boost Atliq Grands' market share and revenue within the luxury business hotel sector. The company aims to surpass competitors and enhance management decision-making through the application of data-driven strategies and business intelligence.
+This project aims to boost Atliq Grands' market share and revenue within the luxury business hotel sector. The company aims to surpass competitors and enhance management decision-making by applying data-driven strategies and business intelligence.
 
 This project is a part of the Codebasics Bootcamp
 
 **Here is my report link** - 
-https://app.powerbi.com/view?r=eyJrIjoiYmU0NmUwNDctYzAwMC00NTVlLTg5MmUtNDA4YTYzNmRiODJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+https://app.powerbi.com/view?r=eyJrIjoiZTA2MGQxNWQtMDBhZC00ZjhiLTllNDAtYzA5NzEzYWYwYzNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 
 ## Data Structure and Data Modeling
 
@@ -50,19 +51,21 @@ The dashboard comprises Four pages-->
 
 ### 2. Overview Page - Here you will find an overview of all the metrics
 
-![overview page final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/d23d4082-1c33-43be-bbeb-06ef7f328c0b)
+![overview page final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/395e8f23-ca32-48c7-af53-ce66ee86d0a4)
+
 
 
 ### 3. Revenue & Occupancy Contributors Page (R&O) - This page tells you about the revenue and occupancy
 
 
-![R   O Final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/23a9401c-4cf5-4263-ad66-13f291aa5956)
+![R 0 page final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/fd94276d-4fb9-4570-952a-e5ece4bc6e0f)
+
 
 
 ### 4. Booking & Average Rating Contributors Page (B& AR) - This page tells you about the Bookings and Ratings
 
 
-![b   ar final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/bc2a257d-bd13-4ce6-a919-816082191079)
+![B   AR final page](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/6b92173b-3099-4e37-80ff-d59d04e1a24e)
 
 
 ## Insights 
